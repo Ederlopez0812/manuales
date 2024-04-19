@@ -1,0 +1,13 @@
+ls = menus /enlistar archivos
+cd = combio de carpeta 
+mkdir = crear carpetas
+touch = sirve para crear archivos
+nano = editar archivos
+cat = muestar el contenido del documento 
+cd + nombre de la carpeta = avanzar 
+cd .. = retroceder una carpeta 
+mv + nombre de la carpeta = mover 
+rm + nombre del archivo = eliminar
+clear = limpiar terminal 
+history = historial de comandos
+nano + ctrl+s = guardar archivo

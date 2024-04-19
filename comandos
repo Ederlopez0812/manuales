@@ -1,0 +1,6 @@
+git init = iniciar repositorio
+git add . = agregar o preparar repositorio
+git status = mver el estado de los archivos 
+git commit -m "descripcion" = realiza un commit 
+git log = para ver historial de los commits
+git reset --hard numero del commit = regresar a una version antes del commit 
